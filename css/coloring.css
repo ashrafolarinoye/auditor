@@ -141,7 +141,7 @@ body.dark-scheme::-webkit-scrollbar-thumb,
 .de_project-info h4:before,
 .d-bar .d-progress-line span,
 h5 span.label {
-    background: var(--primary-color);
+    background: #e98a0f;
 }
 
 

@@ -333,7 +333,7 @@ header.smaller #mainmenu ul ul {
 }
 
 header.smaller {
-    background: #171A1D;
+    background: #171921 !important;
     top: 0px;
     padding: 0;
     position: fixed;
