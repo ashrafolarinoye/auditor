@@ -6744,10 +6744,10 @@ i.font60 {
     padding: 0px;
     border-radius: 50%;
     border: 3px solid;
-    border-top-color: #e98a0f;
-    border-bottom-color: #e98a0f;
-    border-left-color: #e98a0f;
-    border-right-color: #e98a0f;
+    border-top-color: #cd14f6;
+    border-bottom-color: #cd14f6;
+    border-left-color: #cd14f6;
+    border-right-color: #cd14f6;
     -webkit-animation: preloader1 1s ease-in infinite;
     animation: preloader1 1s ease-in infinite;
     position: absolute;
